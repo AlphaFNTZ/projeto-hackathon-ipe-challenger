@@ -1,2 +1,2 @@
-# Hackathon-ipê-challenger
-Repositório do projeto desenvolvido para o hackathon ipê challenger organizado pela Unilavras
+# Hackathon ipê challenge
+Repositório do projeto desenvolvido para o hackathon ipê challenge organizado pela Unilavras
